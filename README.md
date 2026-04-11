@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Master Blueprint for the Adult Animation Production Suite
 
-# Run and deploy your AI Studio app
+- [x] 🔵 **APP 1: ScriptForge (The Writers’ Room) **
+  - **Status:** Built and operational.
+  - **Purpose:** Concept to Pre-Pro.
+  - **Core Features:**
+    - Series Hub (Global Lore & Asset tracking)~~
+    - AI Writers Room (Pitching & Beat locking)~~
+    - Script Formatter
+    - Pre-Pro Engine (Beat sheet, Shot list, Asset Gap List)
+  - **Output:** A formatted .txt script and a checklist of missing assets.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/e9cfe862-e4c6-49ac-87f6-6bed862eb3a0
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Upcoming Applications
+- [ ] 🟢 **APP 2: Asset Forge**
+- [ ] 🟠 **APP 3: VoxBox**
+- [ ] 🔴 **APP 4: The Stage**
+- [ ] 🟣 **APP 5: Broadcast**
